@@ -43,7 +43,7 @@ const gallerySettings = {
     filePrefix: 'women-look',
     label: "Women's Khomala",
     altText: "Khomala women's traditional Assyrian attire",
-    order: [],
+    order: [1, 2, 58, 57],
     hidden: []
   },
   family: {
